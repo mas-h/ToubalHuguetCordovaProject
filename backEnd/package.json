@@ -1,0 +1,14 @@
+{
+  "name": "app.draw.back",
+  "version": "1.0.0",
+  "description": "Serveur Node for collaborativ drawing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HTCorporation",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
